@@ -8,7 +8,7 @@ The project measures how execution time, speedup, and efficiency change when a C
 
 - CPU: AMD Ryzen 7 PRO 5850U with Radeon Graphics (8 physical cores, 16 logical processors with SMT)
 - RAM: 16 GB
-- OS: Windows Windows 11 (version 26H2)
+- OS:  Windows 11 (version 26H2)
 - Language / framework: C#, .NET 10.0 (LTS), Visual Studio
 - Build: Debug
 
