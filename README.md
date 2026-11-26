@@ -10,7 +10,7 @@ The project measures how execution time, speedup, and efficiency change when a C
 - RAM: 16 GB
 - OS:  Windows 11 (version 26H2)
 - Language / framework: C#, .NET 10.0 (LTS), Visual Studio
-- Build: Debug
+- Build: Release
 
 ## Files
 
